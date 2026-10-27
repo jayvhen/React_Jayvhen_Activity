@@ -63,5 +63,5 @@ export default function Post() {
           <div className="post-empty-state">No posts shared yet.</div>
         )}
       </div>
-    s
+    
 }
